@@ -1,0 +1,8 @@
+INFO User logged in
+ERROR Disk failure
+WARNING Memory low
+INFO File uploaded
+ERROR Network timeout
+WARNING CPU temperature high
+INFO User logout
+ERROR Database connection failed
